@@ -1,0 +1,9 @@
+body {
+    cursor: none;
+}
+
+.custom-cursor {
+    width: 20px;
+    height: 20 px;
+
+}
