@@ -5,5 +5,9 @@ body {
 .custom-cursor {
     width: 20px;
     height: 20 px;
-
+    position: absolute;
+    border-radius: 50%;
+    background-color: red;
+    pointer-events: none; /* Prevent cursor from interacting with elements */
+    transform: translate(-50%, -50%); /* Center the cursor */
 }
