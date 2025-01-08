@@ -1,3 +1,4 @@
+/*custom cursor rules*/
 body {
     cursor: none;
 }
@@ -11,3 +12,4 @@ body {
     pointer-events: none; /* Prevent cursor from interacting with elements */
     transform: translate(-50%, -50%); /* Center the cursor */
 }
+/*ends here*/
